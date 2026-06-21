@@ -1,0 +1,11 @@
+.footer {
+  color: var(--color-light);
+  background-color: var(--color-dark);
+}
+
+.footer-logo {
+  color: var(--color-light);
+}
+.footer-text {
+  line-height: 1.5;
+}
