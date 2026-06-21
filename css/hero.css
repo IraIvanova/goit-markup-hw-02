@@ -17,10 +17,6 @@
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  border: none;
-  border-radius: 4px;
-  min-width: 169px;
-  padding: 16px 32px;
 }
 
 .hero-btn:hover,
